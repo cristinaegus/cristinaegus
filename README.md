@@ -4,7 +4,11 @@
 - 🌱 I’m currently  looking for a job
 -  Here is My work ...
 - 📫 How to reach me, here is my  ... LinkedIn https://www.linkedin.com/in/cristina-egusquiza-875a4134/
--  Projects: ...Hammaiketako App   https://hamaiketako.netlify.app/ 
+-  Projects:
+-              Wine Sommelier App https://wine-ia-web.fly.dev/  - Sistema Inteligente de Recomendación de Vinos Españoles
+               Descubre tu vino perfecto con Inteligencia Artificial
+- 
+-              Hammaiketako App   https://hamaiketako.netlify.app/ Tour Gastronomico por la ciudad de Bilbao
 - ⚡ Fun fact: ...
 
 <!---
